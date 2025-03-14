@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: siglo_de_oro
+
+  profiles:
+    include: dev_db
